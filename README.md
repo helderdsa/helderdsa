@@ -1,5 +1,5 @@
-## Olá Mundo! Eu sou o Helder Daniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
-### Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+## Hello world! i'm Helder Daniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
+##### Hi there! My name is Helder Daniel and I am passionate about technology. Currently, I am seeking my first opportunity in the front-end area. I believe that web development is an exciting field that offers endless possibilities for creativity and growth. I enjoy learning and experimenting with new technologies and I am excited to apply my skills and knowledge to build aweasome interfaces. I am always looking for new challenges and opportunities to expand my knowledge and experience. I believe that hard work and dedication are the keys to success and I am committed to achieving my goals in the tech industry. Follow me on my journey as I continue to grow and develop my skills in front-end development.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-dsa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_dsa/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/helderdsa/)
@@ -8,7 +8,7 @@
   <img height="200px" alt="helder github lenguage stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderdsa&show_icons=true&theme=dracula&count_private=true" />
 </div>
 
-## Tecnologias que eu uso no meu dia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24">
+## Staks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24">
 
 <div align="center">
   <h3>Dev Tools</h3>
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <h3>Testes</h3>
+  <h3>Tests</h3>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img align="center" alt="RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
 </div><br/>
