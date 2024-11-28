@@ -2,7 +2,6 @@
 ##### Hi there! My name is Helder Daniel and I am passionate about technology. Currently, I am seeking my first opportunity in the front-end area. I believe that web development is an exciting field that offers endless possibilities for creativity and growth. I enjoy learning and experimenting with new technologies and I am excited to apply my skills and knowledge to build aweasome interfaces. I am always looking for new challenges and opportunities to expand my knowledge and experience. I believe that hard work and dedication are the keys to success and I am committed to achieving my goals in the tech industry. Follow me on my journey as I continue to grow and develop my skills in front-end development.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-dsa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_dsa/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/helderdsa/)
 <div align="center">
   <img height="200px" alt="helder github stats" src="https://github-readme-stats.vercel.app/api?username=helderdsa&show_icons=true&theme=dracula&count_private=true" />
   <img height="200px" alt="helder github lenguage stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderdsa&show_icons=true&theme=dracula&count_private=true" />
