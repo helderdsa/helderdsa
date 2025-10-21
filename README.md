@@ -8,8 +8,8 @@ Tenho interesse em todo o ecossistema de desenvolvimento — do front-end ao bac
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Acredito que **dedicação, curiosidade e trabalho consistente** são a base para alcançar resultados e construir uma carreira sólida na tecnologia.  
 Este é apenas o começo da minha jornada — e estou animado para compartilhá-la aqui no GitHub.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-dsa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_dsa/)
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-dsa/)
+[comment]: <> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_dsa/) -->
 
 ---
 
@@ -18,7 +18,7 @@ Este é apenas o começo da minha jornada — e estou animado para compartilhá-
   <img height="200px" alt="Helder GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderdsa&show_icons=true&theme=dracula&count_private=true" />
 </div>
 
-## Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24" />
+## Stack <img src="https://em-content.zobj.net/source/microsoft-teams/400/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png" width="24" />
 
 <div align="center">
   <!-- Dev Tools -->
