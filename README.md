@@ -1,6 +1,6 @@
 ## Hello World! I'm Helder Daniel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="24" height="24" />
 
-💻 **Desenvolvedor apaixonado por tecnologia**, sempre em busca de novos desafios e oportunidades para aprender, criar e evoluir.  
+<img src="https://em-content.zobj.net/source/microsoft-teams/400/laptop_1f4bb.png" width="24" /> **Desenvolvedor apaixonado por tecnologia**, sempre em busca de novos desafios e oportunidades para aprender, criar e evoluir.  
 Tenho interesse em todo o ecossistema de desenvolvimento — do front-end ao back-end — e adoro transformar ideias em soluções reais e funcionais.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24" /> Estou no início da minha trajetória profissional e comprometido em crescer na área de desenvolvimento de software, explorando diferentes tecnologias, metodologias e boas práticas para entregar código de qualidade.
